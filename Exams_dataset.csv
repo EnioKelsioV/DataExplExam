@@ -1,0 +1,399 @@
+displacement,cylinders,horsepower,weight,acceleration,model_year,origin,Model,Highest_Sale_Country,Popularity_Gender,mpg
+307,8,130,3504,12,70,1,Nissan Altima,China,Female,18
+350,8,165,3693,11.5,70,1,Dodge Charger,Peru,Male,15
+318,8,150,3436,11,70,1,Toyota Corolla,New Zealand,Both,18
+304,8,150,3433,12,70,1,Chevrolet Camaro,Australia,Male,16
+302,8,140,3449,10.5,70,1,Chevrolet Camaro,Portugal,Male,17
+429,8,198,4341,10,70,1,Volkswagen Golf,Portugal,Both,15
+454,8,220,4354,9,70,1,Mazda 3,South Africa,Male,14
+440,8,215,4312,8.5,70,1,Porsche 911,Italy,Female,14
+455,8,225,4425,10,70,1,Land Rover Discovery,India,Both,14
+390,8,190,3850,8.5,70,1,BMW 3 Series,Chile,Male,15
+383,8,170,3563,10,70,1,Mercedes-Benz C-Class,New Zealand,Both,15
+340,8,160,3609,8,70,1,Nissan Altima,Sweden,Both,14
+400,8,150,3761,9.5,70,1,Honda Civic,UK,Female,15
+455,8,225,3086,10,70,1,Mercedes-Benz C-Class,Argentina,Both,14
+113,4,95,2372,15,70,3,Volkswagen Golf,Brazil,Both,24
+198,6,95,2833,15.5,70,1,Jeep Grand Cherokee,Turkey,Both,22
+199,6,97,2774,15.5,70,1,GMC Terrain,Belgium,Both,18
+200,6,85,2587,16,70,1,,South Korea,Both,21
+97,4,88,2130,14.5,70,3,Chrysler 300,Japan,Male,27
+97,4,46,1835,20.5,70,2,Subaru Impreza,Germany,Both,26
+110,4,87,2672,17.5,70,2,Mazda 3,Australia,Male,25
+107,4,90,2430,,70,2,Lexus RX,UK,Male,24
+104,4,95,2375,17.5,70,2,Porsche 911,Brazil,Female,25
+121,4,113,2234,12.5,70,2,Buick Regal,Canada,Female,26
+199,6,90,2648,15,70,1,Porsche 911,United Arab Emirates,Both,21
+360,8,215,4615,14,70,1,Audi A4,Germany,Female,10
+307,8,200,4376,15,70,1,Dodge Charger,Belgium,Male,10
+318,8,210,4382,13.5,70,1,Dodge Charger,USA,Both,11
+304,8,193,4732,18.5,70,1,Toyota Corolla,Spain,Female,9
+97,4,88,2130,14.5,71,3,Land Rover Discovery,Israel,Male,27
+140,4,90,,15.5,71,1,Chevrolet Camaro,United Arab Emirates,Female,28
+113,4,95,2228,14,71,3,GMC Terrain,Canada,Both,25
+98,4,,2046,19,71,1,Porsche 911,UK,Female,25
+232,6,100,2634,13,71,1,Porsche 911,France,Both,19
+225,6,105,3439,15.5,71,1,Porsche 911,Italy,Both,16
+250,6,100,3329,15.5,71,1,Jeep Grand Cherokee,UK,Female,17
+250,6,88,3302,15.5,71,1,Volkswagen Golf,,Both,19
+232,6,100,3288,15.5,71,1,Toyota Corolla,Saudi Arabia,Both,18
+350,8,165,4209,12,71,1,Honda Civic,China,Both,14
+400,8,175,4464,11.5,71,1,Mazda 3,Chile,Both,14
+351,8,153,4154,13.5,71,1,Toyota Corolla,Germany,Female,14
+318,8,150,4096,13,71,1,Hyundai Elantra,Chile,Both,14
+383,8,180,4955,11.5,71,1,Lexus RX,Canada,Both,12
+400,8,170,4746,12,71,1,Chevrolet Camaro,United Arab Emirates,Both,13
+400,8,175,5140,12,71,1,Kia Soul,USA,Both,13
+258,6,110,2962,13.5,71,1,Land Rover Discovery,Israel,Male,18
+140,4,72,2408,19,71,1,Ford Mustang,Russia,Female,22
+250,6,100,3282,15,71,1,Toyota Corolla,Argentina,Female,19
+250,6,88,3139,14.5,71,1,Toyota Corolla,India,Male,18
+122,4,86,2220,14,71,1,BMW 3 Series,Thailand,Female,23
+116,4,90,2123,14,71,2,Audi A4,France,Male,28
+79,4,70,2074,19.5,71,2,Mercedes-Benz C-Class,Germany,Female,30
+88,4,76,2065,14.5,71,2,Subaru Impreza,Spain,Female,30
+71,4,65,1773,19,71,3,Lexus RX,Colombia,Both,31
+72,4,69,1613,18,71,3,GMC Terrain,Peru,Male,35
+97,4,60,1834,19,71,2,Dodge Charger,China,Male,27
+91,4,70,1955,20.5,71,1,BMW 3 Series,Malaysia,Female,26
+113,4,95,2278,15.5,72,3,Mazda 3,South Africa,Male,24
+97.5,4,80,2126,17,72,1,Hyundai Elantra,Spain,Both,25
+97,4,54,2254,23.5,72,2,Honda Civic,UK,Female,23
+140,4,90,2408,19.5,72,1,Honda Civic,Thailand,Female,20
+122,4,86,2226,16.5,72,1,Volkswagen Golf,New Zealand,Both,21
+350,8,165,4274,12,72,1,Mazda 3,Brazil,Male,13
+400,8,175,4385,12,72,1,Chevrolet Camaro,UK,Male,14
+318,8,150,4135,13.5,72,1,Mercedes-Benz C-Class,Italy,Female,15
+351,8,153,4129,13,72,1,Kia Soul,South Africa,Female,14
+304,8,150,3672,11.5,72,1,Jeep Grand Cherokee,Spain,Both,17
+429,8,208,4633,11,72,1,Land Rover Discovery,Argentina,Male,11
+350,8,155,4502,13.5,72,1,Toyota Corolla,Portugal,Male,13
+350,8,160,4456,13.5,72,1,Jeep Grand Cherokee,USA,Male,12
+400,8,190,4422,12.5,72,1,Chevrolet Camaro,France,Both,13
+70,3,97,2330,13.5,72,3,Nissan Altima,New Zealand,Both,19
+304,8,150,3892,12.5,72,1,Hyundai Elantra,Australia,Female,15
+307,8,130,4098,14,72,1,Lexus RX,Peru,Female,13
+302,8,140,4294,16,72,1,Kia Soul,India,Female,13
+318,8,150,4077,14,72,1,BMW 3 Series,Argentina,Female,14
+121,4,112,2933,14.5,72,2,Mercedes-Benz C-Class,Spain,Male,18
+121,4,76,2511,18,72,2,BMW 3 Series,Thailand,Male,22
+120,4,87,2979,19.5,72,2,Dodge Charger,France,Male,21
+96,4,69,2189,18,72,2,Lexus RX,Chile,Male,26
+122,4,86,2395,16,72,1,Chevrolet Camaro,China,Both,22
+97,4,92,2288,17,72,3,Nissan Altima,Australia,Both,28
+120,4,97,2506,14.5,72,3,BMW 3 Series,Mexico,Male,23
+98,4,80,2164,15,72,1,Lexus RX,USA,Female,28
+97,4,88,2100,16.5,72,3,Subaru Impreza,China,Male,27
+350,8,175,4100,13,73,1,Jeep Grand Cherokee,Argentina,Female,13
+304,8,150,3672,11.5,73,1,Dodge Charger,Italy,Both,14
+350,8,145,3988,13,73,1,Lexus RX,Saudi Arabia,Both,13
+302,8,137,4042,14.5,73,1,Chevrolet Camaro,South Korea,Female,14
+318,8,150,3777,12.5,73,1,Dodge Charger,Argentina,Male,15
+429,8,198,4952,11.5,73,1,Chrysler 300,Japan,Male,12
+400,8,150,4464,12,73,1,Buick Regal,New Zealand,Female,13
+351,8,158,4363,13,73,1,GMC Terrain,Singapore,Male,13
+318,8,150,4237,14.5,73,1,Audi A4,USA,Male,14
+440,8,215,4735,11,73,1,Mazda 3,Argentina,Both,13
+455,8,225,4951,11,73,1,Chevrolet Camaro,United Arab Emirates,Female,12
+360,8,175,3821,11,73,1,Toyota Corolla,Mexico,Male,13
+225,6,105,3121,16.5,73,1,Audi A4,USA,Both,18
+250,6,100,3278,18,73,1,Toyota Corolla,Argentina,Male,16
+232,6,100,2945,16,73,1,GMC Terrain,Italy,Male,18
+250,6,88,3021,16.5,73,1,Land Rover Discovery,Germany,Female,18
+198,6,95,2904,16,73,1,BMW 3 Series,Brazil,Male,23
+97,4,46,1950,21,73,2,Ford Mustang,New Zealand,Both,26
+400,8,150,4997,14,73,1,Buick Regal,Saudi Arabia,Male,11
+400,8,167,4906,12.5,73,1,Chevrolet Camaro,Turkey,Female,12
+360,8,170,4654,13,73,1,Ford Mustang,Russia,Male,13
+350,8,180,4499,12.5,73,1,Hyundai Elantra,India,Male,12
+232,6,100,2789,15,73,1,Chrysler 300,Canada,Female,18
+97,4,88,2279,19,73,3,Buick Regal,Saudi Arabia,Male,20
+140,4,72,2401,19.5,73,1,Volkswagen Golf,Colombia,Male,21
+108,4,94,2379,16.5,73,3,Mazda 3,New Zealand,Female,22
+70,3,90,2124,13.5,73,3,Toyota Corolla,Belgium,Male,18
+122,4,85,2310,18.5,73,1,Hyundai Elantra,UK,Both,19
+155,6,107,2472,14,73,1,Land Rover Discovery,Japan,Male,21
+98,4,90,,15.5,73,2,Kia Soul,South Africa,Male,26
+350,8,145,4082,13,73,1,Ford Mustang,Russia,Female,15
+400,8,230,4278,9.5,73,1,Ford Mustang,Saudi Arabia,Female,16
+68,4,49,1867,19.5,73,2,Chevrolet Camaro,Sweden,Female,29
+116,4,75,2158,15.5,73,2,Chevrolet Camaro,Singapore,Female,24
+114,4,91,2582,14,73,2,Land Rover Discovery,Canada,Male,20
+121,4,112,2868,15.5,73,2,Jeep Grand Cherokee,India,Both,19
+318,8,150,3399,11,73,1,Chevrolet Camaro,Peru,Both,15
+121,4,110,2660,14,73,2,Lexus RX,Canada,Both,24
+156,6,122,2807,13.5,73,3,GMC Terrain,Belgium,Female,20
+350,8,180,3664,11,73,1,Land Rover Discovery,Turkey,Male,11
+198,6,95,3102,16.5,74,1,Jeep Grand Cherokee,Russia,Male,20
+200,6,,2875,17,74,1,Mazda 3,Peru,Male,21
+232,6,100,2901,16,74,1,Honda Civic,Russia,Both,19
+250,6,100,3336,17,74,1,BMW 3 Series,Singapore,Both,15
+79,4,67,1950,19,74,3,Hyundai Elantra,Japan,Female,31
+122,4,80,2451,16.5,74,1,Kia Soul,UK,Both,26
+71,4,65,1836,21,74,3,Subaru Impreza,India,Both,32
+140,4,75,2542,17,74,1,Kia Soul,United Arab Emirates,Both,25
+250,6,100,3781,17,74,1,Ford Mustang,Singapore,Both,16
+258,6,110,3632,18,74,1,Porsche 911,United Arab Emirates,Male,16
+225,6,105,3613,16.5,74,1,Buick Regal,Malaysia,Both,18
+302,8,140,4141,14,74,1,Toyota Corolla,Malaysia,Both,16
+350,8,150,4699,14.5,74,1,Toyota Corolla,Brazil,Both,13
+318,8,150,4457,13.5,74,1,Mercedes-Benz C-Class,Sweden,Both,14
+302,8,140,4638,16,74,1,Porsche 911,Japan,Both,14
+304,8,150,4257,15.5,74,1,Jeep Grand Cherokee,United Arab Emirates,Both,14
+98,4,83,2219,16.5,74,2,Hyundai Elantra,Argentina,Female,29
+79,4,67,1963,15.5,74,2,Porsche 911,Italy,Female,26
+97,4,78,2300,14.5,74,2,Subaru Impreza,Mexico,Male,26
+76,4,52,1649,16.5,74,3,Chrysler 300,Netherlands,Female,31
+83,4,61,2003,19,74,3,Ford Mustang,Colombia,Male,32
+90,4,75,2125,14.5,74,1,Chevrolet Camaro,Chile,Female,28
+90,4,75,2108,15.5,74,2,Ford Mustang,Sweden,Female,24
+116,4,75,2246,14,74,2,Kia Soul,United Arab Emirates,Female,26
+120,4,97,2489,15,74,3,Chrysler 300,China,Male,24
+108,4,93,2391,15.5,74,3,Buick Regal,USA,Male,26
+79,4,67,2000,16,74,2,Subaru Impreza,South Korea,Female,31
+225,6,95,3264,16,75,1,Subaru Impreza,Australia,Female,19
+250,6,105,3459,16,75,1,Porsche 911,Russia,Male,18
+250,6,72,3432,21,75,1,Subaru Impreza,Spain,Male,15
+250,6,72,3158,19.5,75,1,Ford Mustang,Peru,Female,15
+400,8,170,4668,11.5,75,1,Lexus RX,Italy,Female,16
+350,8,145,4440,14,75,1,Chevrolet Camaro,Russia,Female,15
+318,8,150,4498,14.5,75,1,Nissan Altima,Thailand,Female,16
+351,8,148,4657,13.5,75,1,Jeep Grand Cherokee,Peru,Male,14
+231,6,110,3907,21,75,1,Toyota Corolla,Sweden,Both,17
+250,6,105,3897,18.5,75,1,BMW 3 Series,India,Male,16
+258,6,110,3730,19,75,1,Chevrolet Camaro,Italy,Male,15
+225,6,95,3785,19,75,1,Chrysler 300,Thailand,Both,18
+231,6,110,3039,15,75,1,Kia Soul,Australia,Both,21
+262,8,110,3221,13.5,75,1,Chrysler 300,Turkey,Male,20
+302,8,129,3169,12,75,1,Chrysler 300,Spain,Male,13
+97,4,75,2171,16,75,3,Kia Soul,Chile,Both,29
+140,4,83,2639,17,75,1,Buick Regal,Germany,Both,23
+232,6,100,2914,16,75,1,Jeep Grand Cherokee,India,Both,20
+140,4,78,2592,18.5,75,1,Buick Regal,Japan,Male,23
+134,4,96,2702,13.5,75,3,Porsche 911,Turkey,Female,24
+90,4,71,2223,16.5,75,2,Honda Civic,Chile,Both,25
+119,4,97,2545,17,75,3,Subaru Impreza,Mexico,Female,24
+171,6,97,2984,14.5,75,1,Toyota Corolla,France,Female,18
+90,4,70,1937,14,75,2,BMW 3 Series,New Zealand,Male,29
+232,6,90,3211,17,75,1,Mercedes-Benz C-Class,Malaysia,Male,19
+115,4,95,2694,15,75,2,Chrysler 300,Canada,Female,23
+120,4,88,2957,17,75,2,Volkswagen Golf,Portugal,Male,23
+121,4,98,2945,14.5,75,2,Dodge Charger,Colombia,Both,22
+121,4,115,2671,13.5,75,2,Mazda 3,Turkey,Both,25
+91,4,53,1795,17.5,75,3,Land Rover Discovery,Chile,Female,33
+107,4,86,2464,15.5,76,2,Subaru Impreza,Mexico,Female,28
+116,4,81,2220,16.9,76,2,Dodge Charger,Colombia,Both,25
+140,4,92,2572,14.9,76,1,Kia Soul,Turkey,Both,25
+98,4,79,2255,17.7,76,1,Mercedes-Benz C-Class,Germany,Female,26
+101,4,83,2202,15.3,76,2,Dodge Charger,Brazil,Both,27
+305,8,140,4215,13,76,1,Honda Civic,USA,Male,17.5
+318,8,150,4190,13,76,1,Nissan Altima,India,Male,16
+304,8,120,3962,13.9,76,1,Chevrolet Camaro,Netherlands,Female,15.5
+351,8,152,4215,12.8,76,1,Land Rover Discovery,Japan,Male,14.5
+225,6,100,3233,15.4,76,1,Dodge Charger,China,Female,22
+250,6,105,3353,14.5,76,1,Chevrolet Camaro,Argentina,Male,22
+200,6,81,3012,17.6,76,1,Hyundai Elantra,Colombia,Male,24
+232,6,90,3085,17.6,76,1,Nissan Altima,South Korea,Female,22.5
+85,4,52,2035,22.2,76,1,Mercedes-Benz C-Class,Netherlands,Both,29
+98,4,60,2164,22.1,76,1,Chevrolet Camaro,United Arab Emirates,Female,24.5
+90,4,70,1937,14.2,76,2,Audi A4,New Zealand,Female,29
+91,4,53,1795,17.4,76,3,Kia Soul,Israel,Both,33
+225,6,100,3651,17.7,76,1,Toyota Corolla,Israel,Male,20
+250,6,78,3574,21,76,1,Kia Soul,Germany,Female,18
+250,6,110,3645,16.2,76,1,Subaru Impreza,USA,Female,18.5
+258,6,95,3193,17.8,76,1,Lexus RX,France,Female,17.5
+97,4,71,1825,12.2,76,2,Hyundai Elantra,Israel,Male,29.5
+85,4,70,1990,17,76,3,Kia Soul,Japan,Male,32
+97,4,75,2155,16.4,76,3,Audi A4,Sweden,Both,28
+140,4,72,2565,13.6,76,1,Dodge Charger,UK,Female,26.5
+130,4,102,3150,15.7,76,2,Subaru Impreza,Chile,Both,20
+318,8,150,3940,13.2,76,1,Ford Mustang,Mexico,Both,13
+120,4,88,3270,21.9,76,2,Porsche 911,France,Female,19
+156,6,108,2930,15.5,76,3,Porsche 911,Australia,Female,19
+168,6,120,3820,16.7,76,2,Jeep Grand Cherokee,Argentina,Both,16.5
+350,8,180,4380,12.1,76,1,Lexus RX,Israel,Male,16.5
+350,8,145,4055,12,76,1,Chevrolet Camaro,Italy,Both,13
+302,8,130,3870,15,76,1,Chevrolet Camaro,South Africa,Male,13
+318,8,150,3755,14,76,1,Volkswagen Golf,Italy,Male,13
+98,4,68,2045,18.5,77,3,Mazda 3,Chile,Both,31.5
+111,4,80,2155,14.8,77,1,Mazda 3,Argentina,Female,30
+79,4,58,1825,18.6,77,2,Mazda 3,Italy,Both,36
+122,4,96,2300,15.5,77,1,Chevrolet Camaro,Japan,Both,25.5
+85,4,70,1945,16.8,77,3,Jeep Grand Cherokee,Chile,Male,33.5
+305,8,145,3880,12.5,77,1,Land Rover Discovery,Chile,Both,17.5
+260,8,110,4060,19,77,1,Nissan Altima,Italy,Female,17
+318,8,145,4140,13.7,77,1,Chevrolet Camaro,France,Both,15.5
+302,8,130,4295,14.9,77,1,Mazda 3,New Zealand,Both,15
+250,6,110,3520,16.4,77,1,Hyundai Elantra,France,Male,17.5
+231,6,105,3425,16.9,77,1,Chrysler 300,Russia,Female,20.5
+225,6,100,3630,17.7,77,1,Volkswagen Golf,India,Female,19
+250,6,98,3525,19,77,1,Volkswagen Golf,Canada,Male,18.5
+400,8,180,4220,11.1,77,1,Honda Civic,Malaysia,Female,16
+350,8,170,4165,11.4,77,1,Nissan Altima,Russia,Female,15.5
+400,8,190,4325,12.2,77,1,Ford Mustang,Thailand,Both,15.5
+351,8,149,4335,14.5,77,1,Ford Mustang,New Zealand,Male,16
+97,4,78,1940,14.5,77,2,Honda Civic,Portugal,Female,29
+151,4,88,2740,16,77,1,Audi A4,Belgium,Male,24.5
+97,4,75,2265,18.2,77,3,Subaru Impreza,UK,Both,26
+140,4,89,2755,15.8,77,1,BMW 3 Series,Russia,Female,25.5
+98,4,63,2051,17,77,1,Toyota Corolla,Argentina,Male,30.5
+98,4,83,2075,15.9,77,1,Kia Soul,United Arab Emirates,Female,33.5
+97,4,67,1985,16.4,77,3,Ford Mustang,China,Male,30
+97,4,78,2190,14.1,77,2,Audi A4,Peru,Both,30.5
+146,6,97,2815,14.5,77,3,Buick Regal,Saudi Arabia,Both,22
+121,4,110,2600,12.8,77,2,Subaru Impreza,Thailand,Female,21.5
+80,3,110,2720,13.5,77,3,Honda Civic,Russia,Female,21.5
+90,4,48,1985,21.5,78,2,GMC Terrain,France,Male,43.1
+98,4,66,1800,14.4,78,1,Buick Regal,Malaysia,Female,36.1
+78,4,52,1985,19.4,78,3,Chevrolet Camaro,Netherlands,Both,32.8
+85,4,70,2070,18.6,78,3,Subaru Impreza,Saudi Arabia,Both,39.4
+91,4,60,1800,16.4,78,3,Lexus RX,Mexico,Both,36.1
+260,8,110,3365,15.5,78,1,BMW 3 Series,Singapore,Female,19.9
+318,8,140,3735,13.2,78,1,Buick Regal,France,Male,19.4
+302,8,139,3570,12.8,78,1,Chevrolet Camaro,Portugal,Both,20.2
+231,6,105,3535,19.2,78,1,Volkswagen Golf,Germany,Both,19.2
+200,6,95,3155,18.2,78,1,Chevrolet Camaro,France,Female,20.5
+200,6,85,2965,15.8,78,1,Land Rover Discovery,Italy,Female,20.2
+140,4,88,2720,15.4,78,1,GMC Terrain,Brazil,Female,25.1
+225,6,100,3430,17.2,78,1,Honda Civic,United Arab Emirates,Female,20.5
+232,6,90,3210,17.2,78,1,Land Rover Discovery,South Korea,Male,19.4
+231,6,105,3380,15.8,78,1,GMC Terrain,New Zealand,Female,20.6
+200,6,85,3070,16.7,78,1,Lexus RX,Malaysia,Male,20.8
+225,6,110,3620,18.7,78,1,Ford Mustang,Mexico,Male,18.6
+258,6,120,3410,15.1,78,1,Audi A4,Peru,Both,18.1
+305,8,145,3425,13.2,78,1,Audi A4,China,Both,19.2
+231,6,165,3445,13.4,78,1,Nissan Altima,Spain,Female,17.7
+302,8,139,3205,11.2,78,1,Nissan Altima,Russia,Both,18.1
+318,8,140,4080,13.7,78,1,Ford Mustang,France,Male,17.5
+98,4,68,2155,16.5,78,1,Dodge Charger,Sweden,Female,30
+134,4,95,2560,14.2,78,3,Volkswagen Golf,New Zealand,Female,27.5
+119,4,97,2300,14.7,78,3,Volkswagen Golf,South Korea,Female,27.2
+105,4,75,2230,14.5,78,1,Kia Soul,UK,Female,30.9
+134,4,95,2515,14.8,78,3,GMC Terrain,South Korea,Both,21.1
+156,4,105,2745,16.7,78,1,Mercedes-Benz C-Class,Turkey,Female,23.2
+151,4,85,2855,17.6,78,1,Volkswagen Golf,Saudi Arabia,Male,23.8
+119,4,97,2405,14.9,78,3,Land Rover Discovery,New Zealand,Female,23.9
+131,5,103,2830,15.9,78,2,Kia Soul,Saudi Arabia,Both,20.3
+163,6,125,3140,13.6,78,2,Porsche 911,UK,Male,17
+121,4,115,2795,15.7,78,2,GMC Terrain,Colombia,Both,21.6
+163,6,133,3410,15.8,78,2,Mazda 3,Mexico,Both,16.2
+89,4,71,1990,14.9,78,2,Jeep Grand Cherokee,Turkey,Both,31.5
+98,4,68,2135,16.6,78,3,Mazda 3,France,Both,29.5
+231,6,115,3245,15.4,79,1,Land Rover Discovery,United Arab Emirates,Female,21.5
+200,6,85,2990,18.2,79,1,Toyota Corolla,Canada,Both,19.8
+140,4,88,2890,17.3,79,1,Mazda 3,Belgium,Female,22.3
+232,6,90,3265,18.2,79,1,Kia Soul,France,Female,20.2
+225,6,110,3360,16.6,79,1,GMC Terrain,Portugal,Both,20.6
+305,8,130,3840,15.4,79,1,Mazda 3,Peru,Male,17
+302,8,129,3725,13.4,79,1,Toyota Corolla,Israel,Both,17.6
+351,8,138,3955,13.2,79,1,Buick Regal,UK,Both,16.5
+318,8,135,3830,15.2,79,1,Hyundai Elantra,France,Female,18.2
+350,8,155,4360,14.9,79,1,BMW 3 Series,China,Female,16.9
+351,8,142,4054,14.3,79,1,Lexus RX,Canada,Female,15.5
+267,8,125,3605,15,79,1,Chevrolet Camaro,United Arab Emirates,Female,19.2
+360,8,150,3940,13,79,1,Porsche 911,Belgium,Both,18.5
+89,4,71,1925,14,79,2,Subaru Impreza,Singapore,Male,31.9
+86,4,65,1975,15.2,79,3,Jeep Grand Cherokee,Israel,Male,34.1
+98,4,80,1915,14.4,79,1,Toyota Corolla,Germany,Male,35.7
+121,4,80,2670,15,79,1,Porsche 911,Turkey,Male,27.4
+183,5,77,3530,20.1,79,2,Subaru Impreza,Germany,Female,25.4
+350,8,125,3900,17.4,79,1,Volkswagen Golf,Mexico,Both,23
+141,4,71,3190,24.8,79,2,Chrysler 300,Belgium,Female,27.2
+260,8,90,3420,22.2,79,1,GMC Terrain,Spain,Female,23.9
+105,4,70,2200,13.2,79,1,Lexus RX,Thailand,Both,34.2
+105,4,70,2150,14.9,79,1,Toyota Corolla,Australia,Both,34.5
+85,4,65,2020,19.2,79,3,Kia Soul,Mexico,Both,31.8
+91,4,69,2130,14.7,79,2,BMW 3 Series,Netherlands,Female,37.3
+151,4,90,2670,16,79,1,Toyota Corolla,South Africa,Male,28.4
+173,6,115,2595,11.3,79,1,Hyundai Elantra,Portugal,Female,28.8
+173,6,115,2700,12.9,79,1,Jeep Grand Cherokee,Germany,Female,26.8
+151,4,90,2556,13.2,79,1,Lexus RX,Belgium,Both,33.5
+98,4,76,2144,14.7,80,2,Land Rover Discovery,Colombia,Female,41.5
+89,4,60,1968,18.8,80,3,BMW 3 Series,Brazil,Male,38.1
+98,4,70,2120,15.5,80,1,Chevrolet Camaro,Malaysia,Male,32.1
+86,4,65,2019,16.4,80,3,Porsche 911,Mexico,Female,37.2
+151,4,90,2678,16.5,80,1,Volkswagen Golf,Malaysia,Both,28
+140,4,88,2870,18.1,80,1,Subaru Impreza,USA,Female,26.4
+151,4,90,3003,20.1,80,1,Chrysler 300,Japan,Male,24.3
+225,6,90,3381,18.7,80,1,Audi A4,Argentina,Male,19.1
+97,4,78,2188,15.8,80,2,Toyota Corolla,Singapore,Female,34.3
+134,4,90,2711,15.5,80,3,Subaru Impreza,Chile,Male,29.8
+120,4,75,2542,17.5,80,3,Dodge Charger,Saudi Arabia,Female,31.3
+119,4,92,2434,15,80,3,Dodge Charger,Mexico,Male,37
+108,4,75,2265,15.2,80,3,Kia Soul,Turkey,Both,32.2
+86,4,65,2110,17.9,80,3,BMW 3 Series,Australia,Male,46.6
+156,4,105,2800,14.4,80,1,Volkswagen Golf,South Africa,Female,27.9
+85,4,65,2110,19.2,80,3,Chrysler 300,India,Female,40.8
+90,4,48,2085,21.7,80,2,Hyundai Elantra,Mexico,Both,44.3
+90,4,48,2335,23.7,80,2,Lexus RX,USA,Male,43.4
+121,5,67,2950,19.9,80,2,Jeep Grand Cherokee,Brazil,Female,36.4
+146,4,67,3250,21.8,80,2,GMC Terrain,Malaysia,Male,30
+91,4,67,1850,13.8,80,3,Porsche 911,India,Both,44.6
+85,4,,1835,17.3,80,2,Chevrolet Camaro,Turkey,Female,40.9
+97,4,67,2145,18,80,3,Mazda 3,Canada,Both,33.8
+89,4,62,1845,15.3,80,2,Land Rover Discovery,Spain,Female,29.8
+168,6,132,2910,11.4,80,3,Ford Mustang,UK,Male,32.7
+70,3,100,2420,12.5,80,3,Porsche 911,Netherlands,Female,23.7
+122,4,88,2500,15.1,80,2,Kia Soul,Brazil,Both,35
+140,4,,2905,14.3,80,1,Land Rover Discovery,France,Female,23.6
+107,4,72,2290,17,80,3,Chrysler 300,South Africa,Both,32.4
+135,4,84,2490,15.7,81,1,Honda Civic,Russia,Female,27.2
+151,4,84,2635,16.4,81,1,Mercedes-Benz C-Class,Netherlands,Both,26.6
+156,4,92,2620,14.4,81,1,Hyundai Elantra,Russia,Male,25.8
+173,6,110,2725,12.6,81,1,Buick Regal,Turkey,Female,23.5
+135,4,84,2385,12.9,81,1,Buick Regal,Argentina,Male,30
+79,4,58,1755,16.9,81,3,Chevrolet Camaro,Belgium,Female,39.1
+86,4,64,1875,16.4,81,1,GMC Terrain,Spain,Female,39
+81,4,60,1760,16.1,81,3,Hyundai Elantra,United Arab Emirates,Male,35.1
+97,4,67,2065,17.8,81,3,Mazda 3,Belgium,Both,32.3
+85,4,65,1975,19.4,81,3,Nissan Altima,Mexico,Male,37
+89,4,62,2050,17.3,81,3,Chrysler 300,Colombia,Male,37.7
+91,4,68,1985,16,81,3,Mercedes-Benz C-Class,UK,Female,34.1
+105,4,63,2215,14.9,81,1,Mercedes-Benz C-Class,South Korea,Both,34.7
+98,4,65,2045,16.2,81,1,Volkswagen Golf,South Africa,Both,34.4
+98,4,65,2380,20.7,81,1,Subaru Impreza,South Korea,Male,29.9
+105,4,74,2190,14.2,81,2,Chrysler 300,Germany,Male,33
+100,4,,2320,15.8,81,2,Volkswagen Golf,Singapore,Both,34.5
+107,4,75,2210,14.4,81,3,Buick Regal,South Africa,Male,33.7
+108,4,75,2350,16.8,81,3,Dodge Charger,Netherlands,Female,32.4
+119,4,100,2615,14.8,81,3,Subaru Impreza,South Korea,Female,32.9
+120,4,74,2635,18.3,81,3,Chevrolet Camaro,Turkey,Male,31.6
+141,4,80,3230,20.4,81,2,Mercedes-Benz C-Class,Chile,Female,28.1
+145,6,76,3160,19.6,81,2,GMC Terrain,United Arab Emirates,Both,30.7
+168,6,116,2900,12.6,81,3,Volkswagen Golf,Singapore,Male,25.4
+146,6,120,2930,13.8,81,3,Lexus RX,South Africa,Female,24.2
+231,6,110,3415,15.8,81,1,Ford Mustang,Netherlands,Male,22.4
+350,8,105,3725,19,81,1,Buick Regal,Japan,Both,26.6
+200,6,88,3060,17.1,81,1,Land Rover Discovery,Italy,Female,20.2
+225,6,85,3465,16.6,81,1,Chrysler 300,India,Both,17.6
+112,4,88,2605,19.6,82,1,BMW 3 Series,Japan,Male,28
+112,4,88,2640,18.6,82,1,BMW 3 Series,South Africa,Male,27
+112,4,88,2395,18,82,1,Nissan Altima,Brazil,Female,34
+112,4,85,2575,16.2,82,1,GMC Terrain,India,Both,31
+135,4,84,2525,16,82,1,Lexus RX,Saudi Arabia,Male,29
+151,4,90,2735,18,82,1,Honda Civic,Chile,Both,27
+140,4,92,2865,16.4,82,1,Audi A4,Thailand,Both,24
+151,4,,3035,20.5,82,1,Honda Civic,Canada,Female,23
+105,4,74,1980,15.3,82,2,Porsche 911,United Arab Emirates,Both,36
+91,4,68,2025,18.2,82,3,Porsche 911,Canada,Male,37
+91,4,68,1970,17.6,82,3,Volkswagen Golf,India,Male,31
+105,4,63,2125,14.7,82,1,Mazda 3,South Korea,Female,38
+98,4,70,2125,17.3,82,1,GMC Terrain,Brazil,Both,36
+120,4,88,2160,14.5,82,3,Mazda 3,China,Male,36
+107,4,75,2205,14.5,82,3,Toyota Corolla,Germany,Male,36
+108,4,70,2245,16.9,82,3,Porsche 911,France,Female,34
+91,4,67,1965,15,82,3,BMW 3 Series,Spain,Both,38
+91,4,67,1965,15.7,82,3,GMC Terrain,USA,Both,32
+91,4,67,1995,16.2,82,3,Lexus RX,United Arab Emirates,Both,38
+181,6,110,2945,16.4,82,1,Buick Regal,Germany,Male,25
+262,6,85,3015,17,82,1,Chevrolet Camaro,United Arab Emirates,Male,38
+156,4,92,2585,14.5,82,1,Hyundai Elantra,UK,Female,26
+232,6,112,2835,14.7,82,1,Honda Civic,Saudi Arabia,Male,22
+144,4,96,2665,13.9,82,3,Lexus RX,Turkey,Female,32
+135,4,84,2370,13,82,1,BMW 3 Series,Israel,Female,36
+151,4,90,2950,17.3,82,1,BMW 3 Series,Turkey,Both,27
+140,4,86,2790,15.6,82,1,Buick Regal,South Africa,Female,27
+97,4,52,2130,24.6,82,2,Buick Regal,Peru,Both,44
+135,4,84,2295,11.6,82,1,Dodge Charger,Chile,Both,32
+120,4,79,2625,18.6,82,1,Hyundai Elantra,China,Male,28
+119,4,82,2720,19.4,82,1,Chrysler 300,Turkey,Male,31
